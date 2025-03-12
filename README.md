@@ -28,6 +28,10 @@ Para gerar o instalador para Windows, Mac ou Linux:
 npm run build
 O instalador será gerado na pasta dist/.   
 
+🚀 Acessar Executável pelo Release do GitHub  
+Você também pode acessar a versão empacotada do aplicativo diretamente pelos releases disponíveis no GitHub:  
+Releases do Projeto  
+
 🌐 Versão Web (Opcional)
 Para rodar a versão web com Node.js:  
 
