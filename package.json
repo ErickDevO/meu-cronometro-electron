@@ -1,0 +1,17 @@
+{
+  "name": "pomodoro-gui",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^35.0.1",
+    "howler": "^2.2.4"
+  }
+}
